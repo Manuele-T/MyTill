@@ -1,5 +1,5 @@
 # Project Title
-EposSimple
+MyTill
 
 ## Description
 This is a simple Java Swing application where an user can add product to a cart and check them out. The project is still under development.
